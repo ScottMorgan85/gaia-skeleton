@@ -1,0 +1,27 @@
+# Secrets & config
+.streamlit/secrets.toml
+.env
+
+# Private prompt engineering
+prompts_private/
+
+# Logs & sensitive data (keep demo data public)
+data/visitor_log.csv
+data/rec_log.csv
+data/prod_*/
+data/*.xlsx
+data/*.csv
+
+# Keep demo datasets
+!data/demo/
+!data/demo/*.csv
+
+# Caches / OS noise
+__pycache__/
+*.log
+*.db
+.cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
