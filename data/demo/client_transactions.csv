@@ -1,0 +1,3 @@
+date,Name,Transaction Type,Direction,Total Value ($),Selected_Strategy,Commentary
+2025-07-31,Apple Inc.,Buy,Increase,25000,Equity,Added on strength
+2025-07-15,U.S. 10Y Treasury,Sell,Decrease,15000,Fixed Income,Trim duration
